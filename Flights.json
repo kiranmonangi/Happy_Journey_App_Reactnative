@@ -1,0 +1,71 @@
+[
+    {
+        "id":0,
+        "airline":"Kingfisher",
+        "img":"https://www.vhv.rs/dpng/d/423-4233835_thumb-image-transparent-background-plane-clipart-hd-png.png",
+        "source":"Vizag",
+        "destination":"Hyderabad",
+        "seats":10,
+        "time":"10.45 PM",
+        "date":"20-2-2021",
+        "cost":5000
+    },
+    
+    {
+        "id":1,
+        "airline":"Air India",
+        "img":"https://www.vhv.rs/dpng/d/423-4233835_thumb-image-transparent-background-plane-clipart-hd-png.png",
+        "source":"Hyderabad",
+        "destination":"Vizag",
+        "seats":15,
+        "time":"11.45 PM",
+        "date":"22-2-2021",
+        "cost":4000
+    },
+    {
+        "id":2,
+        "airline":"Deccan",
+        "img":"https://www.vhv.rs/dpng/d/423-4233835_thumb-image-transparent-background-plane-clipart-hd-png.png",
+        "source":"Mumbai",
+        "destination":"Chennai",
+        "seats":26,
+        "time":"12.00 PM",
+        "date":"23-2-2021",
+        "cost":6000
+    },
+    {
+        "id":3,
+        "airline":"kingfisher",
+        "img":"https://freepikpsd.com/wp-content/uploads/2019/10/air-india-flight-png-5-Transparent-Images.png",
+        "source":"Chennai",
+        "destination":"Mumbai",
+        "seats":17,
+        "time":"17.00 PM",
+        "date":"25-2-2021",
+        "cost":5500
+    },
+
+    {
+        "id":4,
+        "airline":"kingfisher",
+        "img":"https://freepikpsd.com/wp-content/uploads/2019/10/air-india-flight-png-5-Transparent-Images.png",
+        "source":"Bengaluru",
+        "destination":"Mumbai",
+        "seats":12,
+        "time":"9.00 AM",
+        "date":"27-2-2021",
+        "cost":7000
+    },
+    {
+        "id":5,
+        "airline":"Go Air",
+        "img":"https://freepikpsd.com/wp-content/uploads/2019/10/air-india-flight-png-5-Transparent-Images.png",
+        "source":"Mumbai",
+        "destination":"Bengaluru",
+        "seats":26,
+        "time":"17.00 PM",
+        "date":"25-2-2021",
+        "cost":5500
+    }
+
+]
